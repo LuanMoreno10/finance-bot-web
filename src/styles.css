@@ -397,3 +397,11 @@ nav a.active {
   max-width: 360px;
   margin: 0;
 }
+
+.paste-form {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.5rem;
+  width: 100%;
+  max-width: 360px;
+}
